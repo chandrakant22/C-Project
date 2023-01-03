@@ -47,7 +47,7 @@ int main()
         printf("Thank You\n");
         break;
     default:
-        printf("Wrong input!\n");
+        printf("Wrong Input!\n");
         break;
     }
 
